@@ -8,3 +8,5 @@ Test
 Other test
 
 Third
+
+Fred
